@@ -1,0 +1,6 @@
+js mei agr kisi element ko acess krn ah toh hmm document.getelemebntby id ka use krte the 
+react mei hmm  useref ka use krte h 
+
+useEffect(()=>{
+
+},[length]);  -- iska mtlb h length ek hi bar run kregas 
